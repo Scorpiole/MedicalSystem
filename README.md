@@ -15,7 +15,7 @@
 
 #### 1、打开程序
 
-打开WindowsDesign目录下的RunMainMedicsystemWindows.py,运行main。
+运行Main.py
 
 #### 2、设置路径
 
